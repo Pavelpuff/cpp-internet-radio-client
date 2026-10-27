@@ -1,0 +1,8 @@
+*.o
+
+sikradio
+
+.DS_Store
+
+.idea/
+.vscode/
