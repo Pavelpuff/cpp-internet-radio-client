@@ -1,4 +1,4 @@
-# sikradio 📻
+# C++ Internet Radio Client 
 
 ![C++](https://img.shields.io/badge/c++-17-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS-lightgrey)
